@@ -1,0 +1,6 @@
+name: cube
+version: 1.0
+main: com.cube.Main
+description: This is a plugin that adds a lamp item to the game.
+api-version: '1.17'
+resource-pack: https://d2ewlztc96otea.cloudfront.net/lamp.zip
